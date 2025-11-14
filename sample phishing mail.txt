@@ -1,0 +1,36 @@
+
+
+From:
+
+PayPal-Billing Support service@payment-security.web
+
+To:
+
+teacoffee@gmail.com
+
+Subject:
+
+! You're Account Has Been Temporaly Restricted - Action Requiered!
+
+🔒 URGENT: Important Notiss Regarding Your Payment Account
+
+Dear PayPal Valued Customer,
+
+We are writing to you today because of an automatick review of your accounts recent transactoin history. Our system has determinded that there may be a security breach, as unussual purchases were atempted from a device in Rusia. This poses a serius risk to your finantial data.
+
+To protect you, your account access has been imediately restricted and tempporally frozan.
+
+To unrestrict your account and avoid permanant closure, you must confirm your billing information within 12 hours of this notiss. Failure to complete the verification imediately will result in the permanant suspension of your account, and all future transactions will be dennied.
+
+Click on the secure link bellow to log-in and verify your account details:
+
+[ Secure Login Portal - Verify Here Now ]
+(Link: https://www.google.com/search?q=http://app.paypel-verification.co/login/verify-id-4099)
+
+Please apolojize for this inconveniece. Our highest priourity is the securty of our users.
+
+Sincerely,
+
+The PayPal Billing and Account Services Team
+Ref# 405990234
+(This is an automatik email. Do not reply to this address.)
